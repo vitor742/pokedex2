@@ -26,4 +26,7 @@ A pokedex é um software que exibe dados dos pokemons ao inserir seu numero de i
 
 Este projeto está licenciado sob a [Licença GPL-3.0](LICENSE).
 
+## Vercel
+(https://vercel.com/vitor742s-projects/pokedex2-qdkz)
+
 
